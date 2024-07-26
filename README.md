@@ -1,6 +1,6 @@
 # git-workflows:
 
-- master (main)
+- production (real production workload)
     - hotfixes (branches that are quick fixes on production)
 - production (real production workload)
 - stagging (blue / green - duplicate of our production environment and if all tests pass we'll sawp it with production)
