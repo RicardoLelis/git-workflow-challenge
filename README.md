@@ -13,4 +13,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## Horoscope
-Quick reasoning will help you keep a bright and sunny outlook today, and you will be in total control of every move you make. Plus, you will help other people out of some particularly sour pickles. In the end, you'll be the recipient of many glowing compliments. What appears to be an impossible situation will be a simple puzzle for you, one that you can solve in seconds. You will have a lot of fun blowing people away accomplishing things that are terrifically easy for you.
+Today is a fantastic day to take action, Leo. Your eagerness to strike out for new territory is heightened by a drive to experience the unknown. Take an internal journey and see what kind of wonderful things you can discover. There's a tremendous strength inside you that doesn't always get to show itself. This is the perfect day to prove your courage to the world.
